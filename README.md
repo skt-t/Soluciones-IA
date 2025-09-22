@@ -31,3 +31,5 @@ usando "pip" o "!pip" si esta en mac, abajo dos ejemplos:
 - MAC: !pip install -r REQUERIMIENTOS.txt
 - Windows: pip install -r REQUERIMIENTOS.txt
 
+Para iniciarlo copiar: streamlit run evaluacion.py
+
